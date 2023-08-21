@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Perilla</h1>
 <h3 align="center">Fullstack Developer | AWS Cloud | Python Back-End Developer | Vue Front-End Developer | UX Experience | Data Analyst | Interested in Blockchain Technology | Interested in IA and Machine Learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosmperilla" alt="carlosmperilla" /></a> </p>
-
 - 🔭 I’m currently working on **Botpress Integrations**
 
 - 🌱 I’m currently learning **IA and Machine Learning**
